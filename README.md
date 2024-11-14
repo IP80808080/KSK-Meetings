@@ -156,6 +156,6 @@ For support, email support@ksk-meetings.com or join our Slack channel.
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Kamlesh Kasambe
 
 [⬆ Back to top](#ksk-meetings-)
