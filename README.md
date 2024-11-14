@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# KSK Meetings
+
+### **Source Code or Other Work**
+connect with 😎 kasambe.kamlesh1@gmail.com 
+
 
 ## Getting Started
 
